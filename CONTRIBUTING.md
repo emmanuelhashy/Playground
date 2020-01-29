@@ -1,5 +1,6 @@
 Add your image or avatar to the photos folder
 Open the index.html file 
+Duplicate the card component
 Add your image/Avatar in the img tag.
 Add your name
 Add your Nationality, DOB,Hobby and State.
